@@ -63,6 +63,9 @@
   }
 /* Pworfull Part end */
 /* Click Part Start */
+.check-header h5 {
+    font-size: 35px !important;
+  }
 .lorem {
     padding-left: 36px !important;
   }
